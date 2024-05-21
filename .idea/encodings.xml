@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/MicroServices/ApiGateway/ApiGateway/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/MicroServices/CommentService/CommentService/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/MicroServices/MessageService/MessageService/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/MicroServices/NotificationService/NotificationService/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/MicroServices/PostService/PostService/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/MicroServices/SavedPostService/SavedPostService/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/MicroServices/ServiceRegistry/ServiceRegistry/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/MicroServices/StoryService/StoryService/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/MicroServices/UserService/UserService/src/main/java" charset="UTF-8" />
+  </component>
+</project>
